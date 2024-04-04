@@ -4,7 +4,7 @@ Thank you for choosing to learn more about the University of Washington’s inte
 
 ## Why this topic? 
 
-When a disaster strikes, communities often become isolated, and citizens come together to help each other: people share resources, pass along information, and take on tasks that are outside their usual comfort zone. Some examples include New Yorkers sharing private vehicles and boats during the 2005 MTA strike that crippled NYC transit services; and neighbors helping neighbors escape from flooding caused by 2016’s Hurricane Matthew using rafts improvised from inflatable mattresses in Rowland, NC.  
+When a disaster strikes, communities often become isolated, and citizens come together to help each other: people share resources, pass along information, and take on tasks that are outside their usual comfort zone. Some examples include [New Yorkers sharing private vehicles and boats](http://www.cnn.com/2005/US/12/22/feedback.nystrike/) during the 2005 MTA strike that crippled NYC transit services; and [neighbors helping neighbors escape from flooding](https://www.cnn.com/2016/10/14/us/north-carolina-lumberton-flooding-escape/index.html) caused by 2016’s Hurricane Matthew using rafts improvised from inflatable mattresses in Rowland, NC.  
 
 ## What is this project about? 
 
@@ -16,4 +16,4 @@ We are working to build and install rugged "off-grid" hardware, like Wi-Fi acces
 
 ## Who is involved? 
 
-The project is being conducted by a diverse group of researchers across the University of Washington. Professors Cynthia Chen (Civil & Environmental Engineering), Dan Abramson (Urban Design and Planning), Kurtis Heimerl (Computer Science and Engineering), Shuai Huang (Industrial & Systems Engineering), and Tyler McCormick (Statistics, Sociology) are leading the work. This project also relies heavily on close relationships with a number of community partners. These include Laurelhurst’s LEAP, Seattle Community Network, Ocosta Elementary School in Westport, and Grays Harbor County Emergency Management. 
+The project is being conducted by a diverse group of researchers across the University of Washington. Professors Cynthia Chen (Civil & Environmental Engineering), Dan Abramson (Urban Design and Planning), Kurtis Heimerl (Computer Science and Engineering), Shuai Huang (Industrial & Systems Engineering), and Tyler McCormick (Statistics, Sociology) are leading the work. This project also relies heavily on close relationships with a number of community partners. These include Laurelhurst’s [LEAP](https://laurelhurstcc.com/projects/leap/), [Seattle Community Network](https://seattlecommunitynetwork.org/), Ocosta Elementary School in Westport, and Grays Harbor County Emergency Management. 
