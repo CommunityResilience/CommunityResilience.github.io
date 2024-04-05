@@ -14,6 +14,8 @@ Our project brings together different ways of learning about disaster resilience
 
 We are working to build and install rugged "off-grid" hardware, like Wi-Fi access points, that people can use when normal infrastructure might become less reliable. We also hope to create information technologies, like smartphone applications, that can support community resilience in a variety of ways. We hope to use what we learn from the project to develop and pilot test new applications that can potentially be useful in other communities as well. 
 
+<img src="/IMG_5740_c1.png" alt="Participants installing an access point" width=500>
+
 ## Who is involved? 
 
 The project is being conducted by a diverse group of researchers across the University of Washington. Professors Cynthia Chen (Civil & Environmental Engineering), Dan Abramson (Urban Design and Planning), Kurtis Heimerl (Computer Science and Engineering), Shuai Huang (Industrial & Systems Engineering), and Tyler McCormick (Statistics, Sociology) are leading the work. This project also relies heavily on close relationships with a number of community partners. These include Laurelhurst’s [LEAP](https://laurelhurstcc.com/projects/leap/), [Seattle Community Network](https://seattlecommunitynetwork.org/), Ocosta Elementary School in Westport, and Grays Harbor County Emergency Management. 
